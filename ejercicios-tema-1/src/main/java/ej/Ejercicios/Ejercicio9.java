@@ -47,9 +47,7 @@ public class Ejercicio9 {
             productoEscalar= productoEscalar+ (vector1[i] * vector2[i]);
         }
         return productoEscalar;
-    }
-
-        
+    }        
     }
 
 
